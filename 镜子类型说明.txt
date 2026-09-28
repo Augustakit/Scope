@@ -1,0 +1,55 @@
+IronSight通常指的是机瞄以及1倍镜(除了夜视镜外)，EOTech是全息瞄准镜，EVNG指的是夜视镜，其余例如6x，7x指的是6倍和7倍
+
+
+
+Aim_Default_IronSight：M136、G36C、M4A1、G3A3、AN94、M416、AK74M、ACR、M320、ASVAL、M16A4、HK53、SCAR-H、AKS74u、AEK-971、SG553、SCAR-L
+
+Aim_FastMove_IronSight：M9、M1911、PP-19、MP412REX、马格南.44、L85A2、M93R、MP7、PDW-R、QBZ-95B、DAO-12、M1014、MP5K、UMP45、FAMAS、PP2000、F2000、SPAS12、MTAR、MK3A1、M26家族、KH2002、A91                          AUG-A3、SAIGA-12K、M320、870MCS、P90、MP443
+
+Aim Slow IronSight：SKS、SV98、M39EBR、M240、QBB-95、L86、MG36、L96、M82A3、Type88 、SVD、M27IAR、PKP、M40A5、MK11、M60、RPK、M98B、LSAT、JNG90、M249、QBU-88、HK417、XBOW
+
+Aim_FastMove_IronSight_UGL(榴弹枪，包括m320鹿弹)：AN94、M416、AK74M、M16A4、AEK-971、SCAR-L 、AUG-A3
+
+Aim_NoAssist_IronSight_UGL（榴弹枪,包括m320，m320烟雾弹，m320LVG）：AN94、M416、AK74M、M16A4、AEK-971、SCAR-L 、AUG-A3
+
+Aim_NoAssist_AT：FIM-92毒刺、FGM148标枪
+
+Aim_NoAssist_IronSight：RPG、SMAW、SA-18 IGLA
+
+Aim_Default_EOTech：G36C、M4A1、G3A3、AN94、M416、AK74M、ACR、ASVAL、M16A4、HK53、SCAR-H、AKS74u、AEK-971、SG553、SCAR-L
+
+Aim_FastMove_EOTech：M9、M1911、PP-19、MP412REX、马格南.44、L85A2、M93R、MP7、PDW-R、QBZ-95B、DAO-12、M1014、MP5K、UMP45、FAMAS、PP2000、F2000、SPAS12、MTAR、MK3A1、KH2002、A91                                   AUG-A3、SAIGA-12K、870MCS、P90、MP443
+
+Aim_Slow_EOTech：SKS、SV98、M39EBR、M240、QBB-95、L86、MG36、L96、M82A3、Type88 、SVD、M27IAR、PKP、M40A5、MK11、M60、RPK、M98B、LSAT、JNG90、M249、QBU-88、HK417
+
+Aim_Default_ENVG：步枪、冲锋枪、霰弹枪、工程兵武器均为此值，包括JNG90
+
+Aim_Slow_ENVG：机枪、狙击步枪、精确射手步枪均为此值，除了JNG90
+
+Aim_Slow_ENVG_6x：SVD
+
+Aim_Slow_ENVG_10x：M40A5、M82A3
+
+Aim_Default_3.4x：步枪、冲锋枪、霰弹枪、工程兵武器的两个3.4倍镜均为此数值，MK11里面仅PKA倍镜以及M98B仅M145为此数值。
+
+Aim_Slow_3.4x：机枪、狙击步枪、精确射手步枪的两个3.4倍镜均为此数值，MK11里面仅M145倍镜以及M98B仅PKA为此数值。还有马格南.44手枪狙击镜也为此数值
+
+Aim_Default_4x：步枪、冲锋枪、霰弹枪、工程兵武器以及狙击步枪里面的JNG90，其两个4倍镜数据均为此数值
+
+Aim_Slow_4x：机枪、狙击步枪、精确射手步枪，除了狙击步枪中的JNG—90，其两个4倍镜数据均为此数值
+
+Aim_Slow_6x：M416,AUG，ACR-W的7倍镜数据实际上是套的6倍镜内容，其余数据游戏中就可以找得到
+
+Aim_Slow_7x：游戏内可找到，只有这一类7倍镜
+
+Aim_Slow_8x：狙击枪和精确射手步枪均为此值
+
+Aim_Slow_10x：步枪、冲锋枪、霰弹枪、工程兵武器、机枪中、以及QBU-88中带有12倍镜的实际上均为10倍镜数值
+
+Aim_Slow_12x：狙击枪和精确射手步枪均为此值，除了QBU-88
+
+Aim_Slow_20x：L96
+
+Aim_COOP_ENVG_20x：MK11
+
+Aim_Default_NoZoom：手持（地面感应器、阔剑地雷、迫击炮、手雷、MAV、弹药箱、医疗箱、M15、电击器、刀、修复工具、信标、镭射制导）
